@@ -119,7 +119,8 @@ Searching for pairing service requires access to the local network, and many man
 
 #### MIUI (Xiaomi, POCO)
 
-Switch notification style to "Android" from "Notification" - "Notification shade" in system settings.
+Switch notification style to "Android" from "Notification"
+- "Notification shade" in system settings.
 
 ### Start via wireless debugging/Start by connecting to a computer: the permission of adb is limited
 
